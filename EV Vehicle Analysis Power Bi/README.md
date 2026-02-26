@@ -4,12 +4,14 @@ A new EV maker want to enter in Indian market and wants to know what, where and 
 I built a Power BI dashboard that analyzes:
 ✔ Sales trends
 ✔ Regional and State performance
-✔ Category mix”
+✔ Category mix
+
 🧠 Skills Used:
 Power BI | DAX | Data Modelling | Power Query
+
 📈 Insight:
 Over three years, EV sales grew from ~2.7 lakh to ~10 lakh units, with penetration rising from 2% to 5%, delivering a CAGR of 93.9%. All time Avg. daily units sold is ~2K
-.
+
 Segment Mix:
 •	Two-wheelers dominate (>90% of sales)
 •	Four-wheeler adoption remains slow, likely due to:
